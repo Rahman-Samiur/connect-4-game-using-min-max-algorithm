@@ -18,7 +18,4 @@ Run the ![connect4.exe](https://github.com/Rahman-Samiur/connect-4-game-using-mi
 
 OR
 
-Run the main.py file and start to play.
-
-python main.py
-
+Run the ![main.py](https://github.com/Rahman-Samiur/connect-4-game-using-min-max-algorithm/blob/main/main.py) file and start to play.
